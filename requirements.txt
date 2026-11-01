@@ -1,0 +1,5 @@
+fastmcp~=4.1
+langgraph~=1.2
+langchain-openai~=1.7
+python-telegram-bot[socks]~=22.8
+python-dotenv~=1.2
